@@ -18,4 +18,4 @@ Firebase Crash Reporting (Google Inc.)
 We have the right to change the policy at any time. Please check this page to see any updates. 
 
 ### Contact Us
-If you have any questions about the privacy policy, please contact us via [Facebook messenger](m.me/102294758188646).
+If you have any questions about the privacy policy, please contact us via [Facebook messenger](https://m.me/102294758188646).
