@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/lydiazhu/flow/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### How is user data handled by this application?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Flow does not require users to create an account and we do not have any access to your personal information. The data you enter is completely local to your device and is not being synced or send to a server. Flow does not have any access to your entries or personal information. 
 
-### Markdown
+### Analytics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The application collects some click events to analyze how users interact with the application. The application does not collect any identifiable information such as your name, email or what you write inside the app.
 
-```markdown
-Syntax highlighted code block
+### Android
 
-# Header 1
-## Header 2
-### Header 3
+What we use for analytics:
+Google Analytics (Google Inc.)
+Firebase Crash Reporting (Google Inc.)
 
-- Bulleted
-- List
+### Changes
+We have the right to change the policy at any time. Please check this page to see any updates. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lydiazhu/flow/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Us
+If you have any questions about the privacy policy, please contact us via [Facebook messenger](m.me/102294758188646).
