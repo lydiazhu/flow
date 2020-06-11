@@ -8,7 +8,7 @@ Flow does not require users to create an account and we do not have any access t
 
 The application collects some click events to analyze how users interact with the application. The application does not collect any identifiable information such as your name, email or what you write inside the app.
 
-### Android
+### Android and iOS
 
 What we use for analytics:
 Google Analytics (Google Inc.)
