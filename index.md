@@ -2,7 +2,7 @@
 
 ### How is user data handled by this application?
 
-Flow does not require users to create an account and we do not have any access to your personal information. The data you enter is completely local to your device and is not being synced or send to a server. Flow does not have any access to your entries or personal information. 
+Flow Journal does not require users to create an account and we do not have any access to your personal information. The data you enter is completely local to your device and is not being synced or send to a server. Flow Journal does not have any access to your entries or personal information. 
 
 ### Analytics
 
