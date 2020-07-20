@@ -11,7 +11,7 @@ We use Your Personal data to provide and improve the Service. By using the Servi
 ## Interpretation
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-### Definitions
+## Definitions
 For the purposes of this Privacy Policy:
 
 * **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
@@ -54,15 +54,15 @@ For the purposes of the CCPA, Personal Data means any information that identifie
 
 Under GDPR (General Data Protection Regulation), You can be referred to as the Data Subject or as the User as you are the individual using the Service.
 
-### Collecting and Using Your Personal Data
+# Collecting and Using Your Personal Data
 ## Types of Data Collected
-# Personal Data
+### Personal Data
 While using Our Service, we do not collect any of your personal identifiable data.
 
-## Detailed Information on the Processing of Your Personal Data
+# Detailed Information on the Processing of Your Personal Data
 Service Providers have access to Your Personal Data only to perform their tasks on Our behalf and are obligated not to disclose or use it for any other purpose.
 
-# Analytics
+## Analytics
 We may use third-party Service providers to monitor and analyze the use of our Service.
 
 * **Google Analytics**
@@ -79,7 +79,7 @@ We also encourage you to review the Google's policy for safeguarding your data: 
 
 For more information on what type of information Firebase collects, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy
 
-# Payments
+## Payments
 We may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).
 
 We will not store or collect Your payment card details. That information is provided directly to Our third-party payment processors whose use of Your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
@@ -89,7 +89,7 @@ Their Privacy Policy can be viewed at https://www.apple.com/legal/privacy/en-ww/
 * **Google Play In-App Payments**
 Their Privacy Policy can be viewed at https://www.google.com/policies/privacy/
 
-### GDPR Privacy
+# GDPR Privacy
 ## Legal Basis for Processing Personal Data under GDPR
 We may process Personal Data under the following conditions, we currently do not collect any of your personal identifiable data:
 
@@ -119,7 +119,7 @@ You may exercise Your rights of access, rectification, cancellation and oppositi
 
 You have the right to complain to a Data Protection Authority about Our collection and use of Your Personal Data. For more information, if You are in the European Economic Area (EEA), please contact Your local data protection authority in the EEA.
 
-### CCPA Privacy
+# CCPA Privacy
 ## Your Rights under the CCPA
 Under this Privacy Policy, and by law if You are a resident of California, You have the following rights:
 
@@ -139,48 +139,48 @@ Under this Privacy Policy, and by law if You are a resident of California, You h
   * Providing a different level or quality of goods or services to You
   * Suggesting that You will receive a different price or rate for goods or services or a different level or quality of goods or services.
 
-### Exercising Your CCPA Data Protection Rights
+## Exercising Your CCPA Data Protection Rights
 In order to exercise any of Your rights under the CCPA, and if you are a California resident, You can email or call us or visit our "Do Not Sell My Personal Information" section or web page.
 
 The Company will disclose and deliver the required information free of charge within 45 days of receiving Your verifiable request. The time period to provide the required information may be extended once by an additional 45 days when reasonable necessary and with prior notice.
 
-### Do Not Sell My Personal Information
+## Do Not Sell My Personal Information
 We do not sell personal information. However, the Service Providers we partner with (for example, our advertising partners) may use technology on the Service that "sells" personal information as defined by the CCPA law.
 
 If you wish to opt out of the use of your personal information for interest-based advertising purposes and these potential sales as defined under CCPA law, you may do so by following the instructions below.
 
 Please note that any opt out is specific to the browser You use. You may need to opt out on every browser that you use.
 
-### "Do Not Track" Policy as Required by California Online Privacy Protection Act (CalOPPA)
+# "Do Not Track" Policy as Required by California Online Privacy Protection Act (CalOPPA)
 Our Service does not respond to Do Not Track signals.
 
 However, some third party websites do keep track of Your browsing activities. If You are visiting such websites, You can set Your preferences in Your web browser to inform websites that You do not want to be tracked. You can enable or disable DNT by visiting the preferences or settings page of Your web browser.
 
-### Your California Privacy Rights (California's Shine the Light law)
+# Your California Privacy Rights (California's Shine the Light law)
 Under California Civil Code Section 1798 (California's Shine the Light law), California residents with an established business relationship with us can request information once a year about sharing their Personal Data with third parties for the third parties' direct marketing purposes.
 
 If you'd like to request more information under the California Shine the Light law, and if you are a California resident, You can contact Us using the contact information provided below.
 
-### California Privacy Rights for Minor Users (California Business and Professions Code Section 22581)
+# California Privacy Rights for Minor Users (California Business and Professions Code Section 22581)
 California Business and Professions Code section 22581 allow California residents under the age of 18 who are registered users of online sites, services or applications to request and obtain removal of content or information they have publicly posted.
 
 To request removal of such data, and if you are a California resident, You can contact Us using the contact information provided below, and include the email address associated with Your account.
 
 Be aware that Your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances.
 
-### Links to Other Websites
+# Links to Other Websites
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-### Changes to this Privacy Policy
+# Changes to this Privacy Policy
 We may update our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
 We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-### Contact Us
+# Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
   * By email: flowjournalapp@gmail.com
