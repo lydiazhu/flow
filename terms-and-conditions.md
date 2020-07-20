@@ -165,6 +165,6 @@ By continuing to access or use Our Service after those revisions become effectiv
 ## Contact US
 If you have any questions about these Terms and Conditions, You can contact us:
 
-By email: flowjournalapp@gmail.com
+  * By email: flowjournalapp@gmail.com
 
-By reaching our customer support through Facebook Messenger: m.me/102294758188646
+  * By reaching our customer support through Facebook Messenger: m.me/102294758188646
