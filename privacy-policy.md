@@ -1,21 +1,188 @@
 ## Privacy Policy
 
-### How is user data handled by this application?
+Last updated: July 20, 2020
 
-Flow Journal does not require users to create an account and we do not have any access to your personal information. The data you enter is completely local to your device and is not being synced or send to a server. Flow Journal does not have any access to your entries or personal information. 
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-### Analytics
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
-The application collects some click events to analyze how users interact with the application. The application does not collect any identifiable information such as your name, email or what you write inside the app.
+### Interpretation and Definitions
 
-### Android and iOS
+## Interpretation
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-What we use for analytics:
-Google Analytics (Google Inc.)
-Firebase Crash Reporting (Google Inc.)
+## Definitions
+For the purposes of this Privacy Policy:
 
-### Changes
-We have the right to change the policy at any time. Please check this page to see any updates. 
+* **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+
+* **Application** means the software program provided by the Company downloaded by You on any electronic device, named Flow Journal
+
+* **Business**, for the purpose of the CCPA (California Consumer Privacy Act), refers to the Company as the legal entity that collects Consumers' personal information and determines the purposes and means of the processing of Consumers' personal information, or on behalf of which such information is collected and that alone, or jointly with others, determines the purposes and means of the processing of consumers' personal information, that does business in the State of California.
+
+* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Flow Journal.
+
+For the purpose of the GDPR, the Company is the Data Controller.
+
+* **Consumer**, for the purpose of the CCPA (California Consumer Privacy Act), means a natural person who is a California resident. A resident, as defined in the law, includes (1) every individual who is in the USA for other than a temporary or transitory purpose, and (2) every individual who is domiciled in the USA who is outside the USA for a temporary or transitory purpose.
+
+* **Country** refers to: Ontario, Canada
+
+* **Data Controller**, for the purposes of the GDPR (General Data Protection Regulation), refers to the Company as the legal person which alone or jointly with others determines the purposes and means of the processing of Personal Data.
+
+* **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+
+* **Do Not Track (DNT)** is a concept that has been promoted by US regulatory authorities, in particular the U.S. Federal Trade Commission (FTC), for the Internet industry to develop and implement a mechanism for allowing internet users to control the tracking of their online activities across websites.
+
+* **Personal Data** is any information that relates to an identified or identifiable individual.
+
+For the purposes for GDPR, Personal Data means any information relating to You such as a name, an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity.
+
+For the purposes of the CCPA, Personal Data means any information that identifies, relates to, describes or is capable of being associated with, or could reasonably be linked, directly or indirectly, with You.
+
+* **Sale**, for the purpose of the CCPA (California Consumer Privacy Act), means selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a Consumer's Personal information to another business or a third party for monetary or other valuable consideration.
+
+* **Service** refers to the Application.
+
+* **Service Provider** means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used. For the purpose of the GDPR, Service Providers are considered Data Processors.
+
+* **Third-party Social Media Service** refers to any website or any social network website through which a User can log in or create an account to use the Service.
+
+* **Usage Data** refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+
+* **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+
+Under GDPR (General Data Protection Regulation), You can be referred to as the Data Subject or as the User as you are the individual using the Service.
+
+### Collecting and Using Your Personal Data
+## Types of Data Collected
+# Personal Data
+While using Our Service, we do not collect any of your personal identifiable data.
+
+## Detailed Information on the Processing of Your Personal Data
+Service Providers have access to Your Personal Data only to perform their tasks on Our behalf and are obligated not to disclose or use it for any other purpose.
+
+# Analytics
+We may use third-party Service providers to monitor and analyze the use of our Service.
+
+* **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy
+
+* **Firebase**
+
+Firebase is an analytics service provided by Google Inc.
+
+We also encourage you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245
+
+For more information on what type of information Firebase collects, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy
+
+# Payments
+We may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect Your payment card details. That information is provided directly to Our third-party payment processors whose use of Your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+* **Apple Store In-App Payments**
+Their Privacy Policy can be viewed at https://www.apple.com/legal/privacy/en-ww/
+* **Google Play In-App Payments**
+Their Privacy Policy can be viewed at https://www.google.com/policies/privacy/
+
+### GDPR Privacy
+## Legal Basis for Processing Personal Data under GDPR
+We may process Personal Data under the following conditions, we currently do not collect any of your personal identifiable data:
+
+* **Consent:** You have given Your consent for processing Personal Data for one or more specific purposes.
+* **Performance of a contract:** Provision of Personal Data is necessary for the performance of an agreement with You and/or for any pre-contractual obligations thereof.
+* **Legal obligations:** Processing Personal Data is necessary for compliance with a legal obligation to which the Company is subject.
+* **Vital interests:** Processing Personal Data is necessary in order to protect Your vital interests or of another natural person.
+* **Public interests:** Processing Personal Data is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Company.
+* **Legitimate interests:** Processing Personal Data is necessary for the purposes of the legitimate interests pursued by the Company.
+
+In any case, the Company will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
+
+## Your Rights under the GDPR
+The Company undertakes to respect the confidentiality of Your Personal Data and to guarantee You can exercise Your rights, we currently do not collect any of your personal identifiable data.
+
+You have the right under this Privacy Policy, and by law if You are within the EU, to:
+
+* **Request access to Your Personal Data.** The right to access, update or delete the information We have on You. Whenever made possible, you can access, update or request deletion of Your Personal Data directly within Your account settings section. If you are unable to perform these actions yourself, please contact Us to assist You. This also enables You to receive a copy of the Personal Data We hold about You.
+* **Request correction of the Personal Data that We hold about You.** You have the right to to have any incomplete or inaccurate information We hold about You corrected.
+* **Object to processing of Your Personal Data.** This right exists where We are relying on a legitimate interest as the legal basis for Our processing and there is something about Your particular situation, which makes You want to object to our processing of Your Personal Data on this ground. You also have the right to object where We are processing Your Personal Data for direct marketing purposes.
+* **Request erasure of Your Personal Data.** You have the right to ask Us to delete or remove Personal Data when there is no good reason for Us to continue processing it.
+* **Request the transfer of Your Personal Data.** We will provide to You, or to a third-party You have chosen, Your Personal Data in a structured, commonly used, machine-readable format. Please note that this right only applies to automated information which You initially provided consent for Us to use or where We used the information to perform a contract with You.
+* **Withdraw Your consent.** You have the right to withdraw Your consent on using your Personal Data. If You withdraw Your consent, We may not be able to provide You with access to certain specific functionalities of the Service.
+
+## Exercising of Your GDPR Data Protection Rights
+You may exercise Your rights of access, rectification, cancellation and opposition by contacting Us. Please note that we may ask You to verify Your identity before responding to such requests. If You make a request, We will try our best to respond to You as soon as possible.
+
+You have the right to complain to a Data Protection Authority about Our collection and use of Your Personal Data. For more information, if You are in the European Economic Area (EEA), please contact Your local data protection authority in the EEA.
+
+### CCPA Privacy
+## Your Rights under the CCPA
+Under this Privacy Policy, and by law if You are a resident of California, You have the following rights:
+
+* **The right to notice.** You must be properly notified which categories of Personal Data are being collected and the purposes for which the Personal Data is being used.
+* **The right to access / the right to request.** The CCPA permits You to request and obtain from the Company information regarding the disclosure of Your Personal Data that has been collected in the past 12 months by the Company or its subsidiaries to a third-party for the third party's direct marketing purposes.
+* **The right to say no to the sale of Personal Data.** You also have the right to ask the Company not to sell Your Personal Data to third parties. You can submit such a request by visiting our "Do Not Sell My Personal Information" section or web page.
+* **The right to know about Your Personal Data.** You have the right to request and obtain from the Company information regarding the disclosure of the following:
+  * The categories of Personal Data collected
+  * The sources from which the Personal Data was collected
+  * The business or commercial purpose for collecting or selling the Personal Data
+  * Categories of third parties with whom We share Personal Data
+  * The specific pieces of Personal Data we collected about You
+* **The right to delete Personal Data.** You also have the right to request the deletion of Your Personal Data that have been collected in the past 12 months.
+* **The right not to be discriminated against.** You have the right not to be discriminated against for exercising any of Your Consumer's rights, including by:
+  * Denying goods or services to You
+  * Charging different prices or rates for goods or services, including the use of discounts or other benefits or imposing penalties
+  * Providing a different level or quality of goods or services to You
+  * Suggesting that You will receive a different price or rate for goods or services or a different level or quality of goods or services.
+
+### Exercising Your CCPA Data Protection Rights
+In order to exercise any of Your rights under the CCPA, and if you are a California resident, You can email or call us or visit our "Do Not Sell My Personal Information" section or web page.
+
+The Company will disclose and deliver the required information free of charge within 45 days of receiving Your verifiable request. The time period to provide the required information may be extended once by an additional 45 days when reasonable necessary and with prior notice.
+
+### Do Not Sell My Personal Information
+We do not sell personal information. However, the Service Providers we partner with (for example, our advertising partners) may use technology on the Service that "sells" personal information as defined by the CCPA law.
+
+If you wish to opt out of the use of your personal information for interest-based advertising purposes and these potential sales as defined under CCPA law, you may do so by following the instructions below.
+
+Please note that any opt out is specific to the browser You use. You may need to opt out on every browser that you use.
+
+### "Do Not Track" Policy as Required by California Online Privacy Protection Act (CalOPPA)
+Our Service does not respond to Do Not Track signals.
+
+However, some third party websites do keep track of Your browsing activities. If You are visiting such websites, You can set Your preferences in Your web browser to inform websites that You do not want to be tracked. You can enable or disable DNT by visiting the preferences or settings page of Your web browser.
+
+### Your California Privacy Rights (California's Shine the Light law)
+Under California Civil Code Section 1798 (California's Shine the Light law), California residents with an established business relationship with us can request information once a year about sharing their Personal Data with third parties for the third parties' direct marketing purposes.
+
+If you'd like to request more information under the California Shine the Light law, and if you are a California resident, You can contact Us using the contact information provided below.
+
+### California Privacy Rights for Minor Users (California Business and Professions Code Section 22581)
+California Business and Professions Code section 22581 allow California residents under the age of 18 who are registered users of online sites, services or applications to request and obtain removal of content or information they have publicly posted.
+
+To request removal of such data, and if you are a California resident, You can contact Us using the contact information provided below, and include the email address associated with Your account.
+
+Be aware that Your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances.
+
+### Links to Other Websites
+Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+### Changes to this Privacy Policy
+We may update our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+
+We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 ### Contact Us
-If you have any questions about the privacy policy, please contact us via [Facebook messenger](https://m.me/102294758188646).
+If you have any questions about this Privacy Policy, You can contact us:
+
+  * By email: flowjournalapp@gmail.com
+
+  * By reaching our customer support through Facebook Messenger: m.me/102294758188646
